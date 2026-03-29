@@ -24,7 +24,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - GitHub
 
 ## 📸 Preview
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](screenshot.png.jpeg)
 
 
 ---
