@@ -247,18 +247,19 @@ ul li {
 }
 
 .social a {
-  text-decoration: none;
-  color: white;
-  background: #334155;
-  padding: 8px 12px;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px 15px;
+  background: #38bdf8;
   border-radius: 8px;
+  color: black;
   transition: 0.3s;
 }
 
 .social a:hover {
-  background: #38bdf8;
-  color: black;
+  transform: scale(1.1);
 }
+
 
 /* Email */
 a {
