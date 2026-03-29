@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, projects, and experience.
 
 ## 🚀 Live Demo
-👉 https://YOUR_USERNAME.github.io/portfolio/
+👉 https://gautamkumar098.github.io/portfolio/
 
 ## 🛠️ Tech Stack
 - HTML
